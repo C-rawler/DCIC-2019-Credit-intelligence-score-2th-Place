@@ -1,5 +1,5 @@
 # DCIC-2019-Credit-intelligence-score-2th-Place
-2019数字中国创新大赛 消费者人群画像 亚军
+    2019数字中国创新大赛 消费者人群画像 亚军
 首先非常感谢队友neil和gotcha几个月的合作，最终拿了几个周冠军和线上第一的成绩，最终答辩第二，再接再厉
 
 NLP队伍不完整代码（只包含我这部分,后面会链接到队友gotcha的代码）。
@@ -39,4 +39,4 @@ xgboost==0.71
 plotly==3.4.2
 还有一个有意思的点是训练的时候线程数有时会有很大的影响，本次模型默认的都是八线程
 
-gotcha开源地址：https://github.com/PanJianning/DCIC-2019-Credit-2th-Place\<br>
+gotcha开源地址：https://github.com/PanJianning/DCIC-2019-Credit-2th-Place
