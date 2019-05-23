@@ -1,5 +1,6 @@
 # DCIC-2019-Credit-intelligence-score-2th-Place
 # 2019数字中国创新大赛 消费者人群画像 亚军
+
 # 首先非常感谢队友neil和gotcha几个月的合作，最终拿了几个周冠军和线上第一的成绩，最终答辩第二，再接再厉
 
 # NLP队不完整代码（只包含我这部分,后面会链接到队友gotcha的代码）。
