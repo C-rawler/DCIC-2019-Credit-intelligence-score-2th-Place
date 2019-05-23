@@ -1,4 +1,4 @@
-from sklearn.model_selection import KFold^
+from sklearn.model_selection import KFold
 import warnings
 import pandas as pd
 import numpy as np
