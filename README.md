@@ -39,4 +39,4 @@ xgboost==0.71
 plotly==3.4.2
 还有一个有意思的点是训练的时候线程数有时会有很大的影响，本次模型默认的都是八线程
 
-gotcha开源地址：https://github.com/PanJianning/DCIC-2019-Credit-2th-Place
+gotcha开源地址：https://github.com/PanJianning/DCIC-2019-Credit-2th-Place\<br>
