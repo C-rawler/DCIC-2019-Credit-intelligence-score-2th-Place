@@ -1,4 +1,4 @@
-from sklearn.model_selection import KFold, StratifiedKFold,
+from sklearn.model_selection import KFold, StratifiedKFold
 import warnings
 import pandas as pd
 import numpy as np
