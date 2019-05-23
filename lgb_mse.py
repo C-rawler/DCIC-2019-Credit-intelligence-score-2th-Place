@@ -112,5 +112,5 @@ for fold_, (trn_idx, val_idx) in enumerate(splits):
 print("MAE CV score: {:<8.8f}".format(1/(mean_absolute_error(oof_lgb, y_train)+1)))
 print(predictions_lgb)
 
-np.save('val.mae_lgb.npy',oof_lgb)
-np.save('test.mae_lgb.npy',predictions_lgb)
+np.save('val.mse_lgb.npy',oof_lgb)
+np.save('test.mse_lgb.npy',predictions_lgb)
