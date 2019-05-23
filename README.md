@@ -1,5 +1,6 @@
 # DCIC-2019-Credit-intelligence-score-2th-Place
 2019数字中国创新大赛 消费者人群画像 亚军<br>
+赛题链接：https://www.datafountain.cn/competitions/337<br>
 首先非常感谢队友neil和gotcha几个月的合作，最终拿了几个周冠军和线上第一的成绩，最终答辩第二，再接再厉<br>
 
 ## 感想
