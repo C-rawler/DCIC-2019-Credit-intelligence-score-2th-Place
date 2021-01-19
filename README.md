@@ -36,8 +36,8 @@ NLP队伍不完整代码（只包含我这部分,后面会链接到队友gotcha�
 关于第三方包的版本：<br>
 panda==0.23.4<br>
 numpy==1.15.0<br>
-catboos==0.11.2<br>
-lightgb==2.2.2<br>
+catboost==0.11.2<br>
+lightgbm==2.2.2<br>
 scipy==1.0.0<br>
 sklearn==0.19.1<br>
 xgboost==0.71<br>
